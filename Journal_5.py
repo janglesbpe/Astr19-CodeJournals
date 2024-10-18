@@ -4,7 +4,7 @@ from astropy.table import Table
 #define main function
 def main():
     x=npy.linspace(1,2*npy.pi, 1000)
-    y=np.sin(x)
+    y=npy.sin(x)
     data_table= Table()
     data_table["x"]=x
     data_table["y"]=y
