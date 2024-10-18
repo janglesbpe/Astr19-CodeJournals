@@ -12,3 +12,6 @@ def main():
         print("\nYAY!")        
     else:
         print("\nOh No!") 
+
+if __name__ == "__main__":
+    main()
