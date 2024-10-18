@@ -3,7 +3,7 @@ def main():
 #Classification/Parameter                 
     BlueWhale = {                       
         "name"      :    "BlueWhale",
-        "arm_L"     :    65.7     #inches
+        "arm_L"     :    65.7,     #inches
         "leg_L"     :    0.0,   #inches
         "eyes"      :    2,
         "tail"      :    True,    
